@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/natanaelklein/UFCSPA/ESTRUTURA DE DADOS/.metadata/.plugins/org.eclipse.jdt.core
+112731689.index
+2679207827.index
+1865797976.index
+3810927226.index
